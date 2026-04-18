@@ -14,7 +14,7 @@
   },
   "repository": {
       "type": "git",
-      "url": "https://github.com/SUJON-BOSS-chat-bot.git"
+      "url": "https://github.com/Sujon-boss86/Sujon-Mirai-v2-Ultra.git"
   },
   "keywords": [
       "bot",
@@ -30,9 +30,9 @@
   "author": "SUJON-BOSS",
   "license": "GPL-3.0",
   "bugs": {
-      "url": "https://github.com/SUJON-BOSS-chat-bot/issues"
+      "url": "https://github.com/Sujon-boss86/Sujon-Mirai-v2-Ultra/issues"
   },
-  "homepage": "https://github.com/SUJON-BOSS-chat-bot/issues",
+  "homepage": "https://github.com/Sujon-boss86/Sujon-Mirai-v2-Ultra/issues",
   "dependencies": {
       "@distube/ytdl-core": "^4.13.2",
       "@miraipr0ject/assets": "^1.0.9",
